@@ -1,39 +1,39 @@
 ## Programming fundamental concepts
 
 - Syntax and concepts
-  - value: 👂 heard
-  - identifier: 👂 heard
-  - variable: 👂 heard
-  - constant: 👂 heard
-  - scalar: 👂 heard
-  - literal: 👂 heard
-  - expression
-  - heap
+  - value: 🖐️ used 
+  - identifier: 🖐️ used 
+  - variable: 🖐️ used 
+  - constant: 🖐️ used 
+  - scalar: 🖐️ used 
+  - literal: 🖐️ used 
+  - expression: 🖐️ used 
+  - heap: 🎓 known
   - function: 👂 heard
   - procedure
-  - method
-  - class
-  - prototype
-  - event
-  - type
-  - primitive types
+  - method: 🖐️ used 
+  - class: 🖐️ used 
+  - prototype: 🖐️ used 
+  - event: 🎓 known
+  - type: 🎓 known
+  - primitive types: 🎓 known
   - reference types
-  - flag
+  - flag: 🖐️ used 
   - lexical scope
-  - code block
-  - conditions
-  - loops
+  - code block: 🎓 known
+  - conditions: 🖐️ used 
+  - loops: 🖐️ used 
   - assignment
-  - regular expression
-  - interface
-  - contract
+  - regular expression: 🖐️ used 
+  - interface: 🎓 known
+  - contract: 🎓 known
   - module
-  - call stack
+  - call stack: 🎓 known
 - Functions
-  - signature
-  - argument
-  - parameter
-  - pure function
+  - signature: 🖐️ used 
+  - argument: 🖐️ used 
+  - parameter: 🖐️ used 
+  - pure function: 🖐️ used 
   - lambda expression
   - side effects
   - closure
@@ -41,7 +41,7 @@
   - curry
   - higher order
   - recursion
-  - callback
+  - callback: 🖐️ used 
   - listener
   - compose
   - pipe
@@ -50,28 +50,28 @@
   - functor
   - monad
   - monoid
-  - generator
+  - generator: 🖐️ used 
   - coroutine
 - Data structures
-  - array
-  - structure
+  - array: 🖐️ used 
+  - structure: 🖐️ used 
   - record
   - enum
   - instance
-  - object
-  - class
-  - collection
-  - set
-  - hash table
+  - object: 🖐️ used 
+  - class: 🖐️ used 
+  - collection: 🎓 known
+  - set: 🎓 known
+  - hash table: 🎓 known
   - linked list
   - doubly list
-  - unrolled list
+  - unrolled list: 🎓 known
   - circular list
-  - queue
-  - stack
+  - queue: 🎓 known
+  - stack: 🎓 known
   - deque
-  - tree
-  - graph
+  - tree: 🎓 known
+  - graph: 🎓 known
   - iterator
   - mutable state
   - immutable state
@@ -82,25 +82,25 @@
   - transpiler
   - linter
   - polyfill
-  - debugger
+  - debugger: 👂 heard
   - garbage collection
-  - refactoring
-  - code review
-  - antipatterns
-  - paradigm
-  - algorithm
-  - magic numbers
-  - hardcode
+  - refactoring: 🖐️ used 
+  - code review: 🖐️ used 
+  - antipatterns: 🎓 known
+  - paradigm: 🎓 known
+  - algorithm: 🖐️ used 
+  - magic numbers: 👂 heard
+  - hardcode: 👂 heard
   - complexity
-  - decomposition
+  - decomposition: 👂 heard
   - spaghetti
   - silver bullet
   - not invented here
-  - dead code
-  - unreachable code
-  - duplicate code
+  - dead code: 🎓 known
+  - unreachable code: 🎓 known
+  - duplicate code: 🎓 known
   - exception
   - return early
   - unittest
-  - git
-  - github
+  - git: 🖐️ used 
+  - github: 🖐️ used 
