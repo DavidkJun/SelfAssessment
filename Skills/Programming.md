@@ -1,15 +1,15 @@
 ## Programming fundamental concepts
 
 - Syntax and concepts
-  - value
-  - identifier
-  - variable
-  - constant
-  - scalar
-  - literal
+  - value: 👂 heard
+  - identifier: 👂 heard
+  - variable: 👂 heard
+  - constant: 👂 heard
+  - scalar: 👂 heard
+  - literal: 👂 heard
   - expression
   - heap
-  - function
+  - function: 👂 heard
   - procedure
   - method
   - class
