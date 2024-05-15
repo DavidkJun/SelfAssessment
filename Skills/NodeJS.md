@@ -1,7 +1,10 @@
 ## Node.js and backend
-
+🙋 explained
+🖐️ used
+🎓 known
+👂 heard
 - Internals and concepts
-  - Strong and weak sides of node.js
+  - Strong and weak sides of node.js 👂 heard
   - Stateful and stateless servers
   - Nonblocking I/O and slocking code
   - Event loop: phases
@@ -86,24 +89,24 @@
 - Network
   - IP sticky sessions
   - Endpoint throttling
-  - HTTP(S)
-  - TCP/SSL
+  - HTTP(S) 👂 heard
+  - TCP/SSL 
   - UDP
   - TLS
-  - Websocket
+  - Websocket 👂 heard
   - SSE
   - HTTP/3 (QUIC)
   - Long polling
-  - REST
+  - REST 👂 heard
   - RPC
-  - Routing
+  - Routing 
   - DoS
-  - DDoS
+  - DDoS 👂 heard
   - XSS
   - Path traversal
   - CSRF
   - DNS
-  - Fetch API
+  - Fetch API 👂 heard
   - IncomingMessage
   - SQL injection
   - noDelay
